@@ -6,9 +6,19 @@
     <description>Recent content on socaire&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 18 Oct 2018 18:22:08 -0300</lastBuildDate>
     
 	<atom:link href="http://socaire.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://socaire.github.io/posts/my-first-post/</link>
+      <pubDate>Thu, 18 Oct 2018 18:22:08 -0300</pubDate>
+      
+      <guid>http://socaire.github.io/posts/my-first-post/</guid>
+      <description>Test post This is just a test post, unless I&amp;rsquo;m you, you really don&amp;rsquo;t care about this.</description>
+    </item>
     
   </channel>
 </rss>
